@@ -1,0 +1,12 @@
+c:\users\thanhthuc\documents\visual studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\bin\Debug\QuanLyNganHangQuocDan.exe
+c:\users\thanhthuc\documents\visual studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\bin\Debug\QuanLyNganHangQuocDan.pdb
+c:\users\thanhthuc\documents\visual studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.Admin.resources
+c:\users\thanhthuc\documents\visual studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.FormDangNhap.resources
+c:\users\thanhthuc\documents\visual studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.Properties.Resources.resources
+c:\users\thanhthuc\documents\visual studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.csproj.GenerateResource.Cache
+c:\users\thanhthuc\documents\visual studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.exe
+c:\users\thanhthuc\documents\visual studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.pdb
+c:\users\thanhthuc\documents\visual studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.User.resources
+c:\users\thanhthuc\documents\visual studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.Dangky.resources
+C:\Users\ThanhThuc\Documents\Visual Studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.csprojResolveAssemblyReference.cache
+C:\Users\ThanhThuc\Documents\Visual Studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.Form1.resources
