@@ -10,3 +10,5 @@ c:\users\thanhthuc\documents\visual studio 2010\Projects\QuanLyNganHangQuocDan\Q
 c:\users\thanhthuc\documents\visual studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.Dangky.resources
 C:\Users\ThanhThuc\Documents\Visual Studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.csprojResolveAssemblyReference.cache
 C:\Users\ThanhThuc\Documents\Visual Studio 2010\Projects\QuanLyNganHangQuocDan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.Form1.resources
+D:\code\nganhangquocdan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.exe
+D:\code\nganhangquocdan\QuanLyNganHangQuocDan\obj\x86\Debug\QuanLyNganHangQuocDan.pdb
